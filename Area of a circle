@@ -1,0 +1,21 @@
+#Week 2 Exercise
+
+"""
+Author: Julia Wagner
+Created: 21 January 2020
+This is an example of script with good commenting convention.
+"""
+
+pi=3.14 #rounded to 2 digits
+r=2.0
+
+#Area formula
+area=pi *(r**2) #two asteriks is exponents
+
+#perimeter formula
+perim = 2.0*pi*r
+
+#These create outputs in a sentence.
+print ("Given r: ", r)
+print ("Area is: ", area)
+print ("Perimeter is: ", perim)
